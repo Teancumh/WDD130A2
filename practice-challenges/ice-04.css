@@ -1,0 +1,45 @@
+
+body {
+    background-color: #56a0d3;
+    margin-left: 38%;
+    margin-right: 38%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+li {
+    padding: .5em;
+}
+
+h1:hover {
+    color: black;
+}
+
+.white {
+    color: white;
+}
+
+.center {
+    text-align: center;
+}
+
+.sans {
+    font-family: sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.big {
+    font-size: 3.25em;
+}
+
+.footer-size {
+    font-size: 1.25em;
+}
